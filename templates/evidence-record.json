@@ -1,0 +1,17 @@
+{
+  "record_type": "blank_template_not_observation",
+  "source_id": null,
+  "title": null,
+  "url": null,
+  "retrieved_at": null,
+  "source_version": null,
+  "reading_level": null,
+  "locator": null,
+  "reported_result": null,
+  "permitted_inference": null,
+  "not_established": [],
+  "hypothesis_ids": [],
+  "update_type": null,
+  "discriminating_observation": null,
+  "privacy_review": null
+}

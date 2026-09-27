@@ -1,0 +1,59 @@
+{
+  "kind": "structural_checks_only",
+  "human_participant_observations": 0,
+  "candidate_forms": 3,
+  "candidate_items": 12,
+  "real_training_cases": 4,
+  "unique_item_ids": true,
+  "equal_blueprint_item_count": true,
+  "retain_and_revise_items_present_in_each_form": true,
+  "answers_separated_from_question_file": true,
+  "questions_and_answers_publicly_exposed": true,
+  "empty_response_template_valid_json": true,
+  "difficulty_equivalence": "not_tested",
+  "independent_expert_review": "not_done",
+  "rater_reliability": "not_tested",
+  "knowledge_transfer_effect": "not_tested",
+  "files": [
+    {
+      "name": "01_knowledge_pack.md",
+      "bytes": 4772,
+      "sha256": "ec0d64e534862b91d01b9dc0fae7fc5e284bd3ddee1a23f6dac1599adc231b1b"
+    },
+    {
+      "name": "02_training_evidence.md",
+      "bytes": 2913,
+      "sha256": "00f75dd3e7dd81026713425e857f51c35edcba9d9b456b3cbcfb3ef7be17b476"
+    },
+    {
+      "name": "03_candidate_forms.md",
+      "bytes": 6978,
+      "sha256": "c30bd285d3d6ea15bb0f495c2eab9cce13b7614640b4f3ff3476295796000649"
+    },
+    {
+      "name": "04_assessor_guide.md",
+      "bytes": 9673,
+      "sha256": "34b04ec1b3b50b41cc26503ef06c7a13eaf6f7899589e57e97e2a5121987e16b"
+    },
+    {
+      "name": "05_pilot_protocol.md",
+      "bytes": 5717,
+      "sha256": "6f3c083862eb20a7e4a012ed44c85a553bdbb103028c0a67a96e5af03ae92748"
+    },
+    {
+      "name": "06_sources.md",
+      "bytes": 4038,
+      "sha256": "ef239fab5a3a02b1b6e1cd833c7684ab3b981e1e07b9ff8dfccef57a202e35a2"
+    },
+    {
+      "name": "07_response_template.json",
+      "bytes": 807,
+      "sha256": "db77d82d65e04bfe8b2eabefd4e12dbd56e6780161fe2485a8f452cf0c9e203d"
+    },
+    {
+      "name": "README.md",
+      "bytes": 3161,
+      "sha256": "fc5e74b6df1080e3281f0e415b1b4175f8fc15281d76fa68861893fbad09b4ba"
+    }
+  ]
+}

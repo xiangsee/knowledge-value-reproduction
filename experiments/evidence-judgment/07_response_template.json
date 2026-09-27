@@ -1,0 +1,30 @@
+{
+  "record_type": "blank_template_not_observation",
+  "participant_id": null,
+  "voluntary_consent_recorded": null,
+  "stage": null,
+  "form_id": null,
+  "item_id": null,
+  "assigned_condition": null,
+  "model_version": null,
+  "tool_permissions": null,
+  "start_time": null,
+  "end_time": null,
+  "prior_exposure_to_item_or_key": null,
+  "response": {
+    "retain_or_revise": null,
+    "evidence_anchors": [],
+    "revised_statement": null,
+    "discriminating_observation": null
+  },
+  "ratings": [],
+  "notes": null,
+  "costs": {
+    "reading_minutes": null,
+    "verification_minutes": null,
+    "revision_minutes": null,
+    "facilitator_minutes": null,
+    "tool_cost": null
+  },
+  "warning": "这是空白结构，无真实或模拟参与者记录；数值为空，不得作为观测行分析。"
+}

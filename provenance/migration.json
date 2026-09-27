@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-27",
+  "repository": "xiangsee/knowledge-value-reproduction",
+  "baseline": "v0.4.0",
+  "method": "public_adaptation",
+  "original_files_overwritten": false,
+  "external_sources_reaudited": false,
+  "human_experiment_performed": false,
+  "third_party_fulltexts_included": false,
+  "original_v0_1_file_available": false,
+  "original_zip_sha256": "c35a644ccab1420a93fa7007d3c4a8b9c685fb90148928c723ba9481d44b8c03",
+  "adaptations": [
+    {
+      "source_artifact": "xiangsee_knowledge_value_reproduction_0_2.md",
+      "source_sha256": "6d60d8cd4ec08b68e7aee0f0593b98fa5cdd1f4330cae764829581bd83fe4545",
+      "public_path": "research/versions/v0.2.md",
+      "adaptations": [
+        "加入公开存档说明，保留历史研究判断与未验证状态。",
+        "删除私人记录名称及内部引用，以概念说明替代。"
+      ]
+    },
+    {
+      "source_artifact": "xiangsee_knowledge_value_reproduction_0_3.md",
+      "source_sha256": "8da9b24b489ed944dcb49faf1f1a932d45541d6cba1cbf417ce7e4cb749fc2f2",
+      "public_path": "research/versions/v0.3.md",
+      "adaptations": [
+        "加入公开存档说明，保留历史研究判断与未验证状态。",
+        "更新过时的交付状态为历史说明。"
+      ]
+    },
+    {
+      "source_artifact": "xiangsee_knowledge_value_reproduction_0_4.md",
+      "source_sha256": "a2f75d54c60ee2b0acc5476f30f3cc21bd5b15980f8c81825c4818f0e32a5b58",
+      "public_path": "research/versions/v0.4.md",
+      "adaptations": [
+        "加入公开存档说明，保留历史研究判断与未验证状态。",
+        "更新材料链接，明确题目答案均已公开。"
+      ]
+    },
+    {
+      "source_artifact": "xiangsee_reproduction_v0_4.zip:xiangsee_reproduction_v0_4/01_knowledge_pack.md",
+      "source_sha256": "ec0d64e534862b91d01b9dc0fae7fc5e284bd3ddee1a23f6dac1599adc231b1b",
+      "public_path": "experiments/evidence-judgment/01_knowledge_pack.md",
+      "adaptations": [
+        "内容原样迁移。"
+      ]
+    },
+    {
+      "source_artifact": "xiangsee_reproduction_v0_4.zip:xiangsee_reproduction_v0_4/02_training_evidence.md",
+      "source_sha256": "00f75dd3e7dd81026713425e857f51c35edcba9d9b456b3cbcfb3ef7be17b476",
+      "public_path": "experiments/evidence-judgment/02_training_evidence.md",
+      "adaptations": [
+        "内容原样迁移。"
+      ]
+    },
+    {
+      "source_artifact": "xiangsee_reproduction_v0_4.zip:xiangsee_reproduction_v0_4/03_candidate_forms.md",
+      "source_sha256": "c30bd285d3d6ea15bb0f495c2eab9cce13b7614640b4f3ff3476295796000649",
+      "public_path": "experiments/evidence-judgment/03_candidate_forms.md",
+      "adaptations": [
+        "内容原样迁移。"
+      ]
+    },
+    {
+      "source_artifact": "xiangsee_reproduction_v0_4.zip:xiangsee_reproduction_v0_4/04_assessor_guide.md",
+      "source_sha256": "34b04ec1b3b50b41cc26503ef06c7a13eaf6f7899589e57e97e2a5121987e16b",
+      "public_path": "experiments/evidence-judgment/04_assessor_guide.md",
+      "adaptations": [
+        "内容原样迁移。"
+      ]
+    },
+    {
+      "source_artifact": "xiangsee_reproduction_v0_4.zip:xiangsee_reproduction_v0_4/05_pilot_protocol.md",
+      "source_sha256": "6f3c083862eb20a7e4a012ed44c85a553bdbb103028c0a67a96e5af03ae92748",
+      "public_path": "experiments/evidence-judgment/05_pilot_protocol.md",
+      "adaptations": [
+        "内容原样迁移。"
+      ]
+    },
+    {
+      "source_artifact": "xiangsee_reproduction_v0_4.zip:xiangsee_reproduction_v0_4/06_sources.md",
+      "source_sha256": "594fb0bd06050304922c824f56a488d64dfcacd0a28797ec7f4cd2166c2504a8",
+      "public_path": "experiments/evidence-judgment/06_sources.md",
+      "adaptations": [
+        "区分历史来源核验与本次发布。"
+      ]
+    },
+    {
+      "source_artifact": "xiangsee_reproduction_v0_4.zip:xiangsee_reproduction_v0_4/07_response_template.json",
+      "source_sha256": "db77d82d65e04bfe8b2eabefd4e12dbd56e6780161fe2485a8f452cf0c9e203d",
+      "public_path": "experiments/evidence-judgment/07_response_template.json",
+      "adaptations": [
+        "内容原样迁移。"
+      ]
+    },
+    {
+      "source_artifact": "xiangsee_reproduction_v0_4.zip:xiangsee_reproduction_v0_4/README.md",
+      "source_sha256": "b0f928f1fe69209f6d4102c31380e28db21084453669d128852b33d99dcff198",
+      "public_path": "experiments/evidence-judgment/README.md",
+      "adaptations": [
+        "更新公开状态，区分历史核验，标记题目和答案均已曝光。"
+      ]
+    }
+  ]
+}

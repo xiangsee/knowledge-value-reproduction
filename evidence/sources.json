@@ -1,0 +1,366 @@
+{
+  "schema_version": "1.0",
+  "recorded_on": "2026-09-27",
+  "publication_task": "migration_not_new_literature_audit",
+  "sources": [
+    {
+      "id": "R01",
+      "type": "inherited_record",
+      "label": "Ostrom，2010",
+      "historical_description": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems.\nAmerican Economic Review. DOI：10.1257/aer.100.3.641。\n获取：论文原文，重点核对框架—理论—模型区分及IAD结构，查看图2所在页。\n作用：跨层级共用变量语言，不预设唯一具体理论。\n来源：`https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf`",
+      "urls": [
+        "https://web.pdx.edu/~nwallace/EHP/OstromPolyGov.pdf"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S01",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R02",
+      "type": "inherited_record",
+      "label": "Marx，1867",
+      "historical_description": "Capital, Volume I, Chapter 23: Simple Reproduction.\n获取：英文译本章节原文。\n作用：持续生产需要持续再生产其条件；这是理论来源，不表示接受全部价值理论或把人视为组织所有的资产。\n来源：`https://www.marxists.org/archive/marx/works/1867-c1/ch23.htm`",
+      "urls": [
+        "https://www.marxists.org/archive/marx/works/1867-c1/ch23.htm"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S02",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R03",
+      "type": "inherited_record",
+      "label": "Bourdieu，1986",
+      "historical_description": "The Forms of Capital.\n获取：原章再版PDF，重点核对内化、客体化、制度化及转换/社会再生产段落。\n作用：转移载体不同于接收者内化；再生产还涉及机会与地位延续。不能将其资本概念直接移作会计金额。\n来源：`https://home.iitk.ac.in/~amman/soc748/bourdieu_forms_of_capital.pdf`",
+      "urls": [
+        "https://home.iitk.ac.in/~amman/soc748/bourdieu_forms_of_capital.pdf"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S03",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R04",
+      "type": "inherited_record",
+      "label": "Kogut & Zander，1992",
+      "historical_description": "Knowledge of the Firm, Combinative Capabilities, and the Replication of Technology.\nOrganization Science. DOI：10.1287/orsc.3.3.383。\n获取：期刊页及作者摘要，非付费正文全读。\n作用：组织知识体现于合作原则，复制与模仿可能相联系，组合能力连接积累与创新。\n来源：`https://pubsonline.informs.org/doi/10.1287/orsc.3.3.383`",
+      "urls": [
+        "https://pubsonline.informs.org/doi/10.1287/orsc.3.3.383"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S04",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R05",
+      "type": "inherited_record",
+      "label": "Zollo & Winter，2002",
+      "historical_description": "Deliberate Learning and the Evolution of Dynamic Capabilities.\nOrganization Science. DOI：10.1287/orsc.13.3.339.2780。\n获取：期刊页及作者摘要，非付费正文全读。\n作用：经验积累、知识表述与编码对惯例更新的作用及条件性。\n来源：`https://pubsonline.informs.org/doi/10.1287/orsc.13.3.339.2780`",
+      "urls": [
+        "https://pubsonline.informs.org/doi/10.1287/orsc.13.3.339.2780"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S05",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R06",
+      "type": "inherited_record",
+      "label": "Hutchins，1995",
+      "historical_description": "Cognition in the Wild. MIT Press（本轮页面对应1996平装版）。\n获取：出版社内容介绍，不是全书精读。\n作用：以人、工具及文化实践的系统为认知研究单位；不能推出国家是单一心智。\n来源：`https://mitpress.mit.edu/9780262581462/cognition-in-the-wild/`",
+      "urls": [
+        "https://mitpress.mit.edu/9780262581462/cognition-in-the-wild/"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S06",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R07",
+      "type": "inherited_record",
+      "label": "Espeland & Stevens，1998",
+      "historical_description": "Commensuration as a Social Process.\nAnnual Review of Sociology. DOI：10.1146/annurev.soc.24.1.313。\n获取：期刊页及作者摘要。\n作用：共同尺度比较的认知和社会后果；具体AI绩效扭曲仍须另验。\n来源：`https://www.annualreviews.org/content/journals/10.1146/annurev.soc.24.1.313`",
+      "urls": [
+        "https://www.annualreviews.org/content/journals/10.1146/annurev.soc.24.1.313"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S07",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R08",
+      "type": "inherited_record",
+      "label": "Corrado, Hulten & Sichel，2006",
+      "historical_description": "Intangible Capital and Economic Growth. Federal Reserve FEDS 2006-24。\n获取：工作论文原文，重点核对经济资本形成与投资边界。\n作用：经济投资不等于财务报表确认；事前投资目的与事后收益兑现分别记录。\n来源：`https://www.federalreserve.gov/pubs/feds/2006/200624/200624pap.pdf`",
+      "urls": [
+        "https://www.federalreserve.gov/pubs/feds/2006/200624/200624pap.pdf"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S08",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R09",
+      "type": "inherited_record",
+      "label": "IFRS Foundation，IAS 38",
+      "historical_description": "IAS 38 Intangible Assets.\n获取：官方准则说明页；未进行特定企业会计判断。\n作用：可辨认性、确认条件及内部形成项目限制；价值存在与入表分开。\n来源：`https://www.ifrs.org/issued-standards/list-of-standards/ias-38-intangible-assets/`",
+      "urls": [
+        "https://www.ifrs.org/issued-standards/list-of-standards/ias-38-intangible-assets/"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S09",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R10",
+      "type": "inherited_record",
+      "label": "Bastani等，2025",
+      "historical_description": "Generative AI Without Guardrails Can Harm Learning: Evidence from High School Mathematics.\nPNAS. DOI：10.1073/pnas.2422633122。\n获取：作者论文PDF，核对主结果、方法和短期限制，非全附录数据复算。\n来源：`https://hamsabastani.github.io/education_llm.pdf`",
+      "urls": [
+        "https://hamsabastani.github.io/education_llm.pdf"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S10",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R11",
+      "type": "inherited_record",
+      "label": "Kestin等，2025",
+      "historical_description": "AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting.\nScientific Reports. DOI：10.1038/s41598-025-97652-6。\n获取：期刊全文，核对样本、交叉设计、即时学习结果及教师/平台准备投入。\n来源：`https://www.nature.com/articles/s41598-025-97652-6`",
+      "urls": [
+        "https://www.nature.com/articles/s41598-025-97652-6"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S11",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R12",
+      "type": "inherited_record",
+      "label": "Shen & Tamkin，2026",
+      "historical_description": "How AI Impacts Skill Formation. arXiv:2601.20245。\n获取：预印本元数据及作者机构研究说明；不按同行评审结论表述。\n来源：`https://arxiv.org/abs/2601.20245`\n作者说明：`https://www.anthropic.com/research/AI-assistance-coding-skills`",
+      "urls": [
+        "https://arxiv.org/abs/2601.20245",
+        "https://www.anthropic.com/research/AI-assistance-coding-skills"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S12",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R13",
+      "type": "inherited_record",
+      "label": "Hidalgo & Hausmann，2009",
+      "historical_description": "The Building Blocks of Economic Complexity.\nPNAS. DOI：10.1073/pnas.0900943106；作者稿 arXiv:0909.3890。\n获取：作者稿摘要及发表元数据。\n作用：通过国家—产品网络间接描述生产结构；不是全部不可见价值的直接测量。\n来源：`https://arxiv.org/abs/0909.3890`",
+      "urls": [
+        "https://arxiv.org/abs/0909.3890"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S13",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R14",
+      "type": "inherited_record",
+      "label": "Clark & Chalmers，1998",
+      "historical_description": "The Extended Mind. Analysis 58(1):10–23。\n获取：作者网站全文。\n作用：外部工具参与认知的哲学论证；不能据此证明具体AI可靠或个人已内化专业能力。\n来源：`https://consc.net/papers/extended.html`",
+      "urls": [
+        "https://consc.net/papers/extended.html"
+      ],
+      "origin_file": "research/versions/v0.2.md",
+      "origin_local_id": "S14",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R15",
+      "type": "inherited_record",
+      "label": "Brynjolfsson, Li & Raymond (2025), Generative AI at Work",
+      "urls": [
+        "https://danielle.li/assets/docs/GenerativeAIatWork.pdf"
+      ],
+      "historical_reading_scope": "历史0.3/S01和0.4/S2：作者发表版VI.B；未复算。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R16",
+      "type": "inherited_record",
+      "label": "Benkard (2000), Learning and Forgetting: The Dynamics of Aircraft Production",
+      "urls": [
+        "https://www.aeaweb.org/articles?id=10.1257/aer.90.4.1034"
+      ],
+      "historical_reading_scope": "历史0.3/S02：元数据/摘要，未全文审计。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R17",
+      "type": "inherited_record",
+      "label": "SQW / Qa Research (2023), Knowledge Transfer Partnerships Evaluation",
+      "urls": [
+        "https://www.ukri.org/publications/knowledge-transfer-partnerships-evaluation/"
+      ],
+      "historical_reading_scope": "历史0.3/S03：部分正文页，非全文和数据复算。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R18",
+      "type": "inherited_record",
+      "label": "ONS, Investment in intangible assets in the UK: 2023",
+      "urls": [
+        "https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/bulletins/investmentinintangibleassetsintheuk/2023"
+      ],
+      "historical_reading_scope": "历史0.3/S04、0.4/S3：官方HTML，未复算。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R19",
+      "type": "inherited_record",
+      "label": "ONS, Human capital stocks estimates in the UK: 2004 to 2024",
+      "urls": [
+        "https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/humancapitalstocksestimatesintheuk/2004to2024"
+      ],
+      "historical_reading_scope": "历史0.3/S05、0.4/S4：官方HTML，未复算。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "R20",
+      "type": "inherited_record",
+      "label": "AERA / APA / NCME (2014), Standards for Educational and Psychological Testing",
+      "urls": [
+        "https://www.testingstandards.net/open-access-files.html"
+      ],
+      "historical_reading_scope": "历史0.4/S5：部分页，非全读或认证。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L01",
+      "type": "dialogue_lead",
+      "label": "List：财富与生产财富的能力",
+      "urls": [
+        "https://www.econlib.org/library/YPDBooks/List/lstNPE.html?chapter_num=16"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L02",
+      "type": "dialogue_lead",
+      "label": "Romer：内生技术变迁与非竞争性知识",
+      "urls": [
+        "https://doi.org/10.1086/261725"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L03",
+      "type": "dialogue_lead",
+      "label": "Lundvall等：国家创新系统、学习与能力建设",
+      "urls": [
+        "https://repositorio.minciencias.gov.co/bitstreams/c39b51c5-3e6d-433d-bd85-6b9fd883b609/download"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L04",
+      "type": "dialogue_lead",
+      "label": "Polanyi默会认识及Collins类型讨论的初始线索",
+      "urls": [
+        "https://press.uchicago.edu/ucp/books/book/chicago/T/bo6035368.html"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L05",
+      "type": "dialogue_lead",
+      "label": "Nonaka：组织知识创造",
+      "urls": [
+        "https://pubsonline.informs.org/doi/10.1287/orsc.5.1.14"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L06",
+      "type": "dialogue_lead",
+      "label": "Cohen & Levinthal：吸收能力",
+      "urls": [
+        "https://josephmahoney.web.illinois.edu/BA545_Fall%202022/Cohen%20and%20Levinthal%20%281990%29.pdf"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L07",
+      "type": "dialogue_lead",
+      "label": "Argote等：组织知识转移",
+      "urls": [
+        "https://pubsonline.informs.org/doi/10.1287/orsc.2022.1590"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L08",
+      "type": "dialogue_lead",
+      "label": "Arrow：从干中学",
+      "urls": [
+        "https://www.haverford.edu/sites/default/files/Arrow1962.pdf"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L09",
+      "type": "dialogue_lead",
+      "label": "March：探索与利用",
+      "urls": [
+        "https://pubsonline.informs.org/doi/10.1287/orsc.2.1.71"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L10",
+      "type": "dialogue_lead",
+      "label": "Mesoudi & Thornton：累积文化演化",
+      "urls": [
+        "https://www.alexmesoudi.com/publication/mesoudi-what-2018/"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L11",
+      "type": "dialogue_lead",
+      "label": "Teece：创新收益与互补资产",
+      "urls": [
+        "https://www.politicipublice.ro/uploads/technological_innovation.pdf"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L12",
+      "type": "dialogue_lead",
+      "label": "UNDP：Human Development Report 1990",
+      "urls": [
+        "https://hdr.undp.org/content/human-development-report-1990"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    },
+    {
+      "id": "L13",
+      "type": "dialogue_lead",
+      "label": "Hess & Ostrom：知识公地",
+      "urls": [
+        "https://mitpress.mit.edu/9780262516037/understanding-knowledge-as-a-commons/"
+      ],
+      "historical_reading_scope": "初始对话线索；本次未取得独立原文审计记录。",
+      "publication_reaudit": "not_performed"
+    }
+  ]
+}
