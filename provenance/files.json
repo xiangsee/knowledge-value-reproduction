@@ -1,6 +1,7 @@
 {
   "date": "2026-09-27",
-  "scope": "baseline_excluding_this_manifest",
+  "version": "v0.5.0",
+  "scope": "current_snapshot_excluding_this_manifest",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/research-update.md",
@@ -14,8 +15,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 833,
-      "sha256": "4650149619d05afb3933851edcefc5ccfb47f4e8437154a8d124a3dbd5b8e383"
+      "bytes": 1862,
+      "sha256": "6b15cb476939443caa101646ff90ffb09d3ff1dc7ed6579b2af0fc232456fa4f"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -29,8 +30,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4020,
-      "sha256": "e137a87fcf35c4d71b66663209a198ed6f9d3dc9afa0457ec1eeed212b92cdf0"
+      "bytes": 5397,
+      "sha256": "136603e477d9b98d3bb3f5111613ad2f7ce6443532e2bd80ff97c83074889c6a"
     },
     {
       "path": "RIGHTS.md",
@@ -39,18 +40,18 @@
     },
     {
       "path": "ROADMAP.md",
-      "bytes": 1009,
-      "sha256": "f3ee7c33371206baee7243f725db3bc0f9d1fd94e4a691771ff9c0ab145a6f6d"
+      "bytes": 1753,
+      "sha256": "6ad3645094384862432af777c9c7637276413b74683202d1966f9098d0e72836"
     },
     {
       "path": "docs/CONCEPTS.md",
-      "bytes": 2239,
-      "sha256": "c8af970e318edec7628a87fb4cda709cc0198dc794bd3e82b5cb74538c07c924"
+      "bytes": 4029,
+      "sha256": "054d88628280d23a775795781cf79230b1afa6af7269bc37a2f14c9fadb8f975"
     },
     {
       "path": "docs/FRAMEWORK.md",
-      "bytes": 6112,
-      "sha256": "742edf5793600c9a4fdbdcce3f9ef3490b3c5fdb2b6508279b0fec91d3749d69"
+      "bytes": 10926,
+      "sha256": "6298570edca28e1934bc36571e68ad5f7c602132f8fe1a99f1693e0eb31feec6"
     },
     {
       "path": "evidence/README.md",
@@ -119,13 +120,18 @@
     },
     {
       "path": "research/HYPOTHESES.md",
-      "bytes": 1833,
-      "sha256": "297f918441713fe01d765027645560dad9324dd1b7e6c7de57002c373420cd69"
+      "bytes": 3121,
+      "sha256": "9c9ac557d0c80de9061f0c3d437215a90078ce4a67c2d6c05aecd9177cc9f1d4"
+    },
+    {
+      "path": "research/organization/private-enterprise-500.md",
+      "bytes": 5029,
+      "sha256": "c7bf4a45700faa898563c50b66dc2cc0bf0272b50b4338455d3c32e68f171ebd"
     },
     {
       "path": "research/versions/README.md",
-      "bytes": 962,
-      "sha256": "b3347a7453a217a62cc1174d8dc0b79ef4bd291807ed7001acfcc62ad5e01ab3"
+      "bytes": 1098,
+      "sha256": "a4e671c8eb484b27bec6a489dbf07454071bc781834fc99534bb1b0f08eee702"
     },
     {
       "path": "research/versions/v0.1-reconstructed-summary.md",
@@ -148,14 +154,19 @@
       "sha256": "060c9ce001dbab1dff09b8fb9841f3290be69fe6a6b18735647ec4e50853d297"
     },
     {
+      "path": "research/versions/v0.5.md",
+      "bytes": 3539,
+      "sha256": "3bced52089ac8894f3a2a477251518c1be77fac3f4e9046a1950add1c9c1d1fb"
+    },
+    {
       "path": "templates/evidence-record.json",
       "bytes": 395,
       "sha256": "ace833138319121d8a8a1a5e4cfe1b2e2174441448fc6c8ac01175d8f84ac0ce"
     },
     {
       "path": "theory/README.md",
-      "bytes": 2484,
-      "sha256": "9a8d9d0194b2857061d8eca35fc3fa7c3084ea578d34329cec6c4d7c6f6d96f2"
+      "bytes": 3325,
+      "sha256": "89b08db9ad93cba12a3049bc184dc75361bbe9b7b80abb0782e228cd84097eb1"
     },
     {
       "path": "tools/validate_repository.py",
