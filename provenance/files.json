@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-27",
-  "version": "v0.5.0",
+  "date": "2026-09-28",
+  "version": "v0.5.1",
   "scope": "current_snapshot_excluding_this_manifest",
   "files": [
     {
@@ -15,8 +15,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 1862,
-      "sha256": "6b15cb476939443caa101646ff90ffb09d3ff1dc7ed6579b2af0fc232456fa4f"
+      "bytes": 3070,
+      "sha256": "1f34c13a9349fee90d9340c2324b68e9a407f6aff669607dac9c9bda6da5a81d"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -24,34 +24,14 @@
       "sha256": "87dbfe2e739c7acc724bbc683911caa717825b7ef9408bbf1cd11c9f5e31110e"
     },
     {
-      "path": "GOVERNANCE.md",
-      "bytes": 1136,
-      "sha256": "f30e052685245b0195bd04f7f037512071f534e5151d717196cb036ac734c5b5"
-    },
-    {
-      "path": "README.md",
-      "bytes": 5397,
-      "sha256": "136603e477d9b98d3bb3f5111613ad2f7ce6443532e2bd80ff97c83074889c6a"
-    },
-    {
-      "path": "RIGHTS.md",
-      "bytes": 596,
-      "sha256": "7653e46723814aac5fb070a101c803106ec87596be4b524b3575fbfa26b7d30a"
-    },
-    {
-      "path": "ROADMAP.md",
-      "bytes": 1753,
-      "sha256": "6ad3645094384862432af777c9c7637276413b74683202d1966f9098d0e72836"
-    },
-    {
       "path": "docs/CONCEPTS.md",
-      "bytes": 4029,
-      "sha256": "054d88628280d23a775795781cf79230b1afa6af7269bc37a2f14c9fadb8f975"
+      "bytes": 5447,
+      "sha256": "795cee34b396ca933eded81e8c3ff5f5cc26a24312a2066febd24534a73e4c43"
     },
     {
       "path": "docs/FRAMEWORK.md",
-      "bytes": 10926,
-      "sha256": "6298570edca28e1934bc36571e68ad5f7c602132f8fe1a99f1693e0eb31feec6"
+      "bytes": 13338,
+      "sha256": "971daa151dd351ab23f854fa8f58dded0c733070c908ade985bbbd8df94d2f5d"
     },
     {
       "path": "evidence/README.md",
@@ -109,9 +89,9 @@
       "sha256": "fc5e74b6df1080e3281f0e415b1b4175f8fc15281d76fa68861893fbad09b4ba"
     },
     {
-      "path": "provenance/README.md",
-      "bytes": 549,
-      "sha256": "4dbce3086ec1f2377659126fa7393c7a3ea3490f0f7647fcdac00e127028881c"
+      "path": "GOVERNANCE.md",
+      "bytes": 1136,
+      "sha256": "f30e052685245b0195bd04f7f037512071f534e5151d717196cb036ac734c5b5"
     },
     {
       "path": "provenance/migration.json",
@@ -119,19 +99,29 @@
       "sha256": "42272bbeea81b14c26590613ea88d0b32b7abaeaddc3db37e5df0c9ad644b098"
     },
     {
+      "path": "provenance/README.md",
+      "bytes": 549,
+      "sha256": "4dbce3086ec1f2377659126fa7393c7a3ea3490f0f7647fcdac00e127028881c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5830,
+      "sha256": "2c06f09723f1173f923ece69e70d9cb4458b13734753d74330d6b0765d8d1532"
+    },
+    {
       "path": "research/HYPOTHESES.md",
-      "bytes": 3121,
-      "sha256": "9c9ac557d0c80de9061f0c3d437215a90078ce4a67c2d6c05aecd9177cc9f1d4"
+      "bytes": 4089,
+      "sha256": "0ed64a27d671e5dde76cdb8d2c8913f64bb0726428e627b4048e8cbfdf25c148"
     },
     {
       "path": "research/organization/private-enterprise-500.md",
-      "bytes": 5029,
-      "sha256": "c7bf4a45700faa898563c50b66dc2cc0bf0272b50b4338455d3c32e68f171ebd"
+      "bytes": 5678,
+      "sha256": "a21c5dca4c1318e288469b322b4c1bd8d11da3ab49aeb7cca59dc69bd87a3d01"
     },
     {
       "path": "research/versions/README.md",
-      "bytes": 1098,
-      "sha256": "a4e671c8eb484b27bec6a489dbf07454071bc781834fc99534bb1b0f08eee702"
+      "bytes": 1241,
+      "sha256": "5b475e65bf74e213867e76bd74e0f8134ebf5a7c216a184d61aaefee54ad4133"
     },
     {
       "path": "research/versions/v0.1-reconstructed-summary.md",
@@ -154,9 +144,24 @@
       "sha256": "060c9ce001dbab1dff09b8fb9841f3290be69fe6a6b18735647ec4e50853d297"
     },
     {
+      "path": "research/versions/v0.5.1.md",
+      "bytes": 2966,
+      "sha256": "018eefac4356c73ffa5271e6fdabbcfb204eabbc8ddf611a650a80e465bb8c9a"
+    },
+    {
       "path": "research/versions/v0.5.md",
       "bytes": 3539,
       "sha256": "3bced52089ac8894f3a2a477251518c1be77fac3f4e9046a1950add1c9c1d1fb"
+    },
+    {
+      "path": "RIGHTS.md",
+      "bytes": 596,
+      "sha256": "7653e46723814aac5fb070a101c803106ec87596be4b524b3575fbfa26b7d30a"
+    },
+    {
+      "path": "ROADMAP.md",
+      "bytes": 2506,
+      "sha256": "f3d69a66c578ff767876901287d6fcb10bfdaf3da175c532e7d55eb883b969f8"
     },
     {
       "path": "templates/evidence-record.json",
